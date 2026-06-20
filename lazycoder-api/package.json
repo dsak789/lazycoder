@@ -1,0 +1,22 @@
+{
+  "name": "lazycoder-api",
+  "version": "0.0.0",
+  "description": "A package for a LAZY Developer to setup Express API ",
+  "keywords": [
+    "Lazy-Developer",
+    "Lazy-Coder",
+    "Backend",
+    "API "
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsak789/lazycoder"
+  },
+  "license": "MIT",
+  "author": "Sai Ajith Kumar Dannana",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  }
+}

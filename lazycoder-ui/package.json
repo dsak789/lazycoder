@@ -1,0 +1,19 @@
+{
+  "name": "lazycoder-ui",
+  "version": "0.0.0",
+  "description": "A cli for a LAZY Developer to setup Web application ",
+  "keywords": [
+    "Lazy-Developer Lazy-Coder Frontend UI"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsak789/lazycoder"
+  },
+  "license": "MIT",
+  "author": "Sai Ajith Kumar Dannana",
+  "type": "module",
+  "scripts": {
+    "start": "",
+    "test": ""
+  }
+}

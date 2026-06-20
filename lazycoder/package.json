@@ -1,0 +1,21 @@
+{
+  "name": "lazycoder",
+  "version": "0.0.0",
+  "description": "A cli for a LAZY Developer to setup Full stack application ",
+  "keywords": [
+    "Lazy-Developer",
+    "Lazy-coder",
+    "CLI"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsak789/lazycoder"
+  },
+  "license": "MIT",
+  "author": "Sai Ajith Kumar Dannana",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  }
+}
